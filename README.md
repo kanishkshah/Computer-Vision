@@ -2,7 +2,7 @@
 
 ### Projects:
 
-- Celebrity Autencoder.
+- Celebrity Autoencoder.
 
   Reconstructed Images:
   
@@ -18,10 +18,10 @@
   
 - Fake Image Generation, Cifar 10 (DCGANS)
 
-  Original Dataset: 
+  Original Dataset, for comparison: 
   
   ![Original Images](cifar_gans/cifar10.png)
   
   Fake Images Created:
   
-  ![Original Images](cifar_gans/generated_plot_e191.png)
+   ![Original Images](cifar_gans/generated_plot_e191.png)
