@@ -2,6 +2,16 @@
 
 ### Projects:
 
+- Faake Faces (CelebA)
+
+  Generated Faces:
+  
+  ![Fake Faces](celeb_gans/image_at_epoch_0300.png)
+  
+  How it changed overtime:
+  
+  ![Fake Faces updations](celeb_gans/dcgan.gif)
+
 - Celebrity Autoencoder.
 
   Reconstructed Images:
