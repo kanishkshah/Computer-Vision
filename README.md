@@ -4,7 +4,7 @@
 
 - Faake Faces (CelebA)
 
-  Generated Faces:
+  Generated Faces (Results would be better over more epochs):
   
   ![Fake Faces](celeb_gans/image_at_epoch_0300.png)
   
