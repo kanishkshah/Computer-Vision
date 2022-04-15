@@ -2,16 +2,6 @@
 
 ### Projects:
 
-- Faake Faces (CelebA)
-
-  Generated Faces (Results would be better over more epochs):
-  
-  ![Fake Faces](celeb_gans/image_at_epoch_0300.png)
-  
-  How it changed overtime:
-  
-  ![Fake Faces updations](celeb_gans/dcgan.gif)
-
 - Celebrity Autoencoder.
 
   Reconstructed Images:
@@ -25,6 +15,18 @@
   Faces generated from just noise:
   
   ![Faces from noise](celabrity_autoencoder/Fig_002.png)
+  
+
+- Fake Faces (CelebA)
+
+  Generated Faces (Results would be better over more epochs):
+  
+  ![Fake Faces](celeb_gans/image_at_epoch_0300.png)
+  
+  How it changed overtime:
+  
+  ![Fake Faces updations](celeb_gans/dcgan.gif)
+
   
 - Fake Image Generation, Cifar 10 (DCGANS)
 
